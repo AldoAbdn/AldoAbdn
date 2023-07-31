@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AldoAbdn
 - 👀 I’m interested in C#, C++ and Game Design
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Game Development
 - 💞️ I’m looking to collaborate on C# Projects, Games
 - 📫 How to reach me - https://www.linkedin.com/in/alistair-quinn-abdn/
 
